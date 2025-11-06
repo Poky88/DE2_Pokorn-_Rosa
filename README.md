@@ -1,4 +1,4 @@
-# DE2_semester_project
+# Indoor air quality monitoring system
 # Členové týmu
 
     Tomáš Pokorný
