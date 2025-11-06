@@ -1,8 +1,24 @@
-# DE1_semester_project
+# DE2_semester_project
 # Členové týmu
 
-    David Dobiáš - vedoucí týmu, hlavní programátor
-    Tomáš Pokorný - pomocný programátor, readme maker
-    Tomáš Rosa - pomocný programátor, video maker
+    Tomáš Pokorný
+    Tomáš Rosa
 
-# Shrnutí projektu
+# Popis zapojení a komponent
+
+Senzor MQ-9
+- Senzor oxidu uhelnatého
+
+Senzor DHT 11
+- Senzor teploty a vlhkosti
+
+Oled Displej
+
+
+# Popis programu
+
+
+# Demontrační video
+
+
+# Demonstrační poster
