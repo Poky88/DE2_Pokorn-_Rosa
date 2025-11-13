@@ -21,7 +21,7 @@ Optický senzor ovzduší GP2Y1010AU0F
 - Senzor částic prachu a kouře
 
 OLED displej
-- 
+- dgdg
 
 # Schéma zapojení
 
