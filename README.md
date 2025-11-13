@@ -4,10 +4,10 @@ such as DHTx, MQx, SQP4x, SDS011, etc. Display data on a display or send it to a
 
 # Členové týmu
 
-Tomáš Pokorný
-Tomáš Rosa
-Dominik Uherka
-Daniel Valčík
+- Tomáš Pokorný
+- Tomáš Rosa
+- Dominik Uherka
+- Daniel Valčík
 
 # Popis zapojení a komponent
 
