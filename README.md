@@ -25,6 +25,8 @@ OLED displej
 
 # Schéma zapojení
 
+<img width="782" height="622" alt="image" src="https://github.com/user-attachments/assets/97b443f3-bff2-46ef-b072-c82cc8e6e825" />
+
 
 # Popis programu
 
