@@ -15,11 +15,15 @@ V tomto projektu se věnujeme návrhem a realizací měření různých veličin
 
 # Popis komponent
 
-Senzor MQ-9
-- Senzor oxidu uhelnatého
+Senzor MQ-135
+- Senzor oxidu uhličitého (CO2)
+
+Senzor MQ-135 je detktor plynů, určený pro monitorování kvality ovzduší. Aktivním prvkem senzoru je tenká vrstva oxidu cíničitého (SnO2), jejíž elektrický odpor se mění v závislosti na přítomnosti a koncentraci určitých plynů. Tento mechanismus umožňuje senzoru reagovat zejména na amoniak (NH3), oxid dusíku (NOx), kouřové částice a především oxid uhličitý (CO2), který je v projektu využíván a zobrazován.
 
 Senzor DHT 11
 - Senzor teploty a vlhkosti
+
+Senzor DHT11 je určený pro měření teploty a relativní vlhkosti vzduchu. Tento typ integruje teplotní čidlo a kapacitní senzor vlhkosti v jednom pouzdře.
 
 Optický senzor ovzduší GP2Y1010AU0F
 - Senzor částic prachu a kouře
