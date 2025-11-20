@@ -11,6 +11,8 @@ such as DHTx, MQx, SQP4x, SDS011, etc. Display data on a display or send it to a
 
 # Návrh a popis projektu
 V tomto projektu se věnujeme návrhem a realizací měření různých veličin. Cílem projektu je pomocí senzorů přijímat data, které jsou zpracovány a zobrazovány na displeji. Díky tomu může uživatel získat informace o okolní teplotě a vlhkosti, množství oxidu uhelnatého, nebo množství prachových částic. 
+ještě dopsat:
+založený na mikrokontroléru ATmega328
 
 
 # Popis komponent
