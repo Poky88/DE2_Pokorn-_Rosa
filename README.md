@@ -9,7 +9,11 @@ such as DHTx, MQx, SQP4x, SDS011, etc. Display data on a display or send it to a
 - Dominik Uherka
 - Daniel Valčík
 
-# Popis zapojení a komponent
+# Návrh a popis projektu
+V tomto projektu se věnujeme návrhem a realizací měření různých veličin. Cílem projektu je pomocí senzorů přijímat data, které jsou zpracovány a zobrazovány na displeji. Díky tomu může uživatel získat informace o okolní teplotě a vlhkosti, množství oxidu uhelnatého, nebo množství prachových částic. V projektu 
+
+
+# Popis komponent
 
 Senzor MQ-9
 - Senzor oxidu uhelnatého
