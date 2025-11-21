@@ -27,8 +27,12 @@ Senzor DHT 11
 
 Senzor DHT11 je určený pro měření teploty a relativní vlhkosti vzduchu. Tento typ integruje teplotní čidlo a kapacitní senzor vlhkosti v jednom pouzdře.
 
+Model DHT11 poskytuje teplotní rozsah od 0 do 50 °C s přesností ± 1 °C a relativní vlhkost mezi 20 až 90 % s odchylkou ±4 %.
+
 Optický senzor ovzduší GP2Y1010AU0F
 - Senzor částic prachu a kouře
+
+
 
 OLED displej
 - IIC I2C OLED displej 1,3" - Bílý, 128 x 64
